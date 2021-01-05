@@ -8,3 +8,16 @@ Patrones en calidad de pruebas,
 Investigación de nuevos patrones,
 Mejora de patrones,
 Nuevos desarrollos.
+
+
+# MRJob Developments
+This repository is for the different tests and creations that I have been doing as I have developed patterns for my final career project. 
+They are notebooks with tests that in the end have not been entered, because they are not tuned or not working correctly.
+However, they are kept here for examples in case that I continue with new developments to spread this knowledge, or as consultations.
+
+This will be for:
+
+Standards as evidence,
+Investigation of new patterns,
+Improvement of patterns,
+New developments.
