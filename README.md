@@ -17,7 +17,7 @@ However, they are kept here for examples in case that I continue with new develo
 
 This will be for:
 
-Standards as evidence,
+Test patterns,
 Investigation of new patterns,
 Improvement of patterns,
 New developments.
